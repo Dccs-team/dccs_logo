@@ -7,7 +7,7 @@ A python module for creating a logo for the dccs team.
 To install the dccs_logo module, use pip:
 
 ```
-pip install dccs_logo
+pip install dccs-logo==1.0.1
 ```
 
 ## Usage
